@@ -26,3 +26,14 @@ https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
   - in swtich but not in default 
   - in while loop that would not be executed
 
+## Narrowing and Widening
+
+- narrowing -- not allowed
+- widening -- aloowed, assign a smaller variable to a larger type
+
+## Casting
+
+
+
+
+
