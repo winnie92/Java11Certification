@@ -13,3 +13,7 @@
 - "Not" working cases
 - can only be used in methods or loops, not class level(static)
 - the variable assigned to it must be inferable by the complier
+
+## scope of variables
+- cannot define a variable with the same name in the same scope
+- inner function/loops can inherit scopes from parent function/class
